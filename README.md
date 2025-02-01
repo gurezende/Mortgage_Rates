@@ -2,7 +2,20 @@
 
 ## Project
 
-* **Purpose:** Decompose, analyze, fit and predict the first months of 2025 of the 30-year Fixed Mortgage rates in the USA.
+#### Purpose
+Decompose, analyze, fit and predict the first months of 2025 of the 30-year Fixed Mortgage rates in the USA.
+
+#### Skills and Methods
+* Web scraping to retrieve data from the Internet
+* Time Series decomposition and analysis
+* Grid Search
+* Model Fine Tuning
+* Time Series Forecasting
+
+#### Results
+The final model was created with `LightGBM`, presenting a Mean Absolute Percentage Error (MAPE) of 2.32% over the validation set.
+I was able to succesfully forecast the 30-year fixed Mortgage rate in the USA from *January to August of 2025* using data up to December, 2024.
+
 
 ## Requirements
 
@@ -23,7 +36,7 @@ This project was created in Python 3.12.1.
 
 
 
-### About Me
+## About Me
 This is a project created by Gustavo R. Santos.
 
 Find me on [Linkedin.](https://www.linkedin.com/in/gurezende/)
