@@ -1,6 +1,6 @@
 # Mortgage_Rates
 
-![](/img/forecast-mtgage.png)
+![](/img/Gemini_Generated_Image mortgage.jpg)
 
 ## Project
 
@@ -18,6 +18,7 @@ Decompose, analyze, fit and predict the first months of 2025 of the 30-year Fixe
 The final model was created with `LightGBM`, presenting a Mean Absolute Percentage Error (MAPE) of 2.32% over the validation set.
 I was able to succesfully forecast the 30-year fixed Mortgage rate in the USA from *January to August of 2025* using data up to December, 2024.
 
+![](/img/forecast-mtgage.png)
 
 ## Requirements
 
