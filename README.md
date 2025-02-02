@@ -1,6 +1,6 @@
 # Mortgage_Rates
 
-![](/img/Gemini_Generated_Image mortgage.jpg)
+![](/img/Gemini_Generated_Image_mortgage.jpg)
 
 ## Project
 
