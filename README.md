@@ -14,6 +14,11 @@ Decompose, analyze, fit and predict the first months of 2025 of the 30-year Fixe
 * Model Fine Tuning
 * Time Series Forecasting
 
+#### Medium Post
+This project execution is explained in details in this Medium post.
+
+[Predicting 30-Year Fixed Mortgage Rates with Time Series](https://medium.com/ai-advances/predicting-30-year-fixed-mortgage-rates-with-time-series-bb0f3b56f482?sk=5cd934c52ef30c281172504b2bc07db0)
+
 #### Results
 The final model was created with `LightGBM`, presenting a Mean Absolute Percentage Error (MAPE) of 2.32% over the validation set.
 I was able to succesfully forecast the 30-year fixed Mortgage rate in the USA from *January to August of 2025* using data up to December, 2024.
